@@ -1,0 +1,59 @@
+[
+  {
+    "Id": 1,
+    "Name": "Luke Skywalker",
+    "Height": 172,
+    "BirthYear": "19BBY",
+    "HomeworldId": 1,
+    "StarshipsIds": [
+      1,
+      2
+    ],
+    "Created": "2024-11-08T11:36:55.8858143Z",
+    "Modified": "2024-11-07T11:41:18.9034911Z"
+  },
+  {
+    "Id": 2,
+    "Name": "C-3PO",
+    "Height": 167,
+    "BirthYear": "112BBY",
+    "HomeworldId": 1,
+    "StarshipsIds": [],
+    "Created": "2024-11-08T11:36:55.8869199Z",
+    "Modified": "2024-11-07T12:09:24.8535251Z"
+  },
+  {
+    "Id": 3,
+    "Name": "R2-D2",
+    "Height": 96,
+    "BirthYear": "33BBY",
+    "HomeworldId": 2,
+    "StarshipsIds": [],
+    "Created": "2024-11-08T11:36:55.8869351Z",
+    "Modified": "2024-11-07T12:09:24.8535251Z"
+  },
+  {
+    "Id": 4,
+    "Name": "Darth Vader",
+    "Height": 202,
+    "BirthYear": "41.9BBY",
+    "HomeworldId": 1,
+    "StarshipsIds": [
+      3
+    ],
+    "Created": "2024-11-08T11:36:55.8869437Z",
+    "Modified": "2024-11-07T11:50:43.9318723Z"
+  },
+  {
+    "Id": 5,
+    "Name": "Leia Organa",
+    "Height": 150,
+    "BirthYear": "19BBY",
+    "HomeworldId": 3,
+    "StarshipsIds": [
+      0
+    ],
+    "Created": "2024-11-08T11:36:55.8869504Z",
+    "Modified": "2024-11-07T11:50:43.9318723Z"
+  }
+]

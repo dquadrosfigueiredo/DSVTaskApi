@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DSV.Task.RestApi.props" />
+</Project>

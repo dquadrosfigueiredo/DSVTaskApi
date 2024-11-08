@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "Name": "X-wing",
+    "Model": "T-65 X-wing",
+    "Manufacturer": "Incom Corporation"
+  },
+  {
+    "Id": 2,
+    "Name": "Imperial shuttle",
+    "Model": "Lambda-class T-4a shuttle",
+    "Manufacturer": "Sienar Fleet Systems"
+  },
+  {
+    "Id": 3,
+    "Name": "TIE Advanced x1",
+    "Model": "Twin Ion Engine Advanced x1",
+    "Manufacturer": "Sienar Fleet Systems"
+  }
+]

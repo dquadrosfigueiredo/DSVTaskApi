@@ -1,0 +1,346 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diogo\\Desktop\\DSV\\src\\DSV.Task.RestApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64BD6BCA-B774-4C02-A260-4FC986A9AA94}|DSV.Task.RestApi.csproj|c:\\users\\diogo\\desktop\\dsv\\src\\dsv.task.restapi\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BD6BCA-B774-4C02-A260-4FC986A9AA94}|DSV.Task.RestApi.csproj|solutionrelative:repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BD6BCA-B774-4C02-A260-4FC986A9AA94}|DSV.Task.RestApi.csproj|c:\\users\\diogo\\desktop\\dsv\\src\\dsv.task.restapi\\domain\\mappers\\starshipdtomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BD6BCA-B774-4C02-A260-4FC986A9AA94}|DSV.Task.RestApi.csproj|solutionrelative:domain\\mappers\\starshipdtomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BD6BCA-B774-4C02-A260-4FC986A9AA94}|DSV.Task.RestApi.csproj|c:\\users\\diogo\\desktop\\dsv\\src\\dsv.task.restapi\\domain\\mappers\\planetdtomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BD6BCA-B774-4C02-A260-4FC986A9AA94}|DSV.Task.RestApi.csproj|solutionrelative:domain\\mappers\\planetdtomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BD6BCA-B774-4C02-A260-4FC986A9AA94}|DSV.Task.RestApi.csproj|c:\\users\\diogo\\desktop\\dsv\\src\\dsv.task.restapi\\domain\\mappers\\persondtomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BD6BCA-B774-4C02-A260-4FC986A9AA94}|DSV.Task.RestApi.csproj|solutionrelative:domain\\mappers\\persondtomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BD6BCA-B774-4C02-A260-4FC986A9AA94}|DSV.Task.RestApi.csproj|c:\\users\\diogo\\desktop\\dsv\\src\\dsv.task.restapi\\domain\\entities\\starship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BD6BCA-B774-4C02-A260-4FC986A9AA94}|DSV.Task.RestApi.csproj|solutionrelative:domain\\entities\\starship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BD6BCA-B774-4C02-A260-4FC986A9AA94}|DSV.Task.RestApi.csproj|c:\\users\\diogo\\desktop\\dsv\\src\\dsv.task.restapi\\domain\\entities\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BD6BCA-B774-4C02-A260-4FC986A9AA94}|DSV.Task.RestApi.csproj|solutionrelative:domain\\entities\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BD6BCA-B774-4C02-A260-4FC986A9AA94}|DSV.Task.RestApi.csproj|c:\\users\\diogo\\desktop\\dsv\\src\\dsv.task.restapi\\domain\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BD6BCA-B774-4C02-A260-4FC986A9AA94}|DSV.Task.RestApi.csproj|solutionrelative:domain\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BD6BCA-B774-4C02-A260-4FC986A9AA94}|DSV.Task.RestApi.csproj|c:\\users\\diogo\\desktop\\dsv\\src\\dsv.task.restapi\\domain\\dtos\\starshipdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BD6BCA-B774-4C02-A260-4FC986A9AA94}|DSV.Task.RestApi.csproj|solutionrelative:domain\\dtos\\starshipdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BD6BCA-B774-4C02-A260-4FC986A9AA94}|DSV.Task.RestApi.csproj|c:\\users\\diogo\\desktop\\dsv\\src\\dsv.task.restapi\\domain\\dtos\\planetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BD6BCA-B774-4C02-A260-4FC986A9AA94}|DSV.Task.RestApi.csproj|solutionrelative:domain\\dtos\\planetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BD6BCA-B774-4C02-A260-4FC986A9AA94}|DSV.Task.RestApi.csproj|c:\\users\\diogo\\desktop\\dsv\\src\\dsv.task.restapi\\domain\\dtos\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BD6BCA-B774-4C02-A260-4FC986A9AA94}|DSV.Task.RestApi.csproj|solutionrelative:domain\\dtos\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BD6BCA-B774-4C02-A260-4FC986A9AA94}|DSV.Task.RestApi.csproj|c:\\users\\diogo\\desktop\\dsv\\src\\dsv.task.restapi\\data\\people.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{64BD6BCA-B774-4C02-A260-4FC986A9AA94}|DSV.Task.RestApi.csproj|solutionrelative:data\\people.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BD6BCA-B774-4C02-A260-4FC986A9AA94}|DSV.Task.RestApi.csproj|c:\\users\\diogo\\desktop\\dsv\\src\\dsv.task.restapi\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BD6BCA-B774-4C02-A260-4FC986A9AA94}|DSV.Task.RestApi.csproj|solutionrelative:services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F175C3F5-EEE3-4467-9598-AF6C5E233341}|..\\DSV.Task.RestApi.Test\\DSV.Task.RestApi.Test.csproj|c:\\users\\diogo\\desktop\\dsv\\src\\dsv.task.restapi.test\\apiservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BD6BCA-B774-4C02-A260-4FC986A9AA94}|DSV.Task.RestApi.csproj|c:\\users\\diogo\\desktop\\dsv\\src\\dsv.task.restapi\\repositories\\planetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BD6BCA-B774-4C02-A260-4FC986A9AA94}|DSV.Task.RestApi.csproj|solutionrelative:repositories\\planetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BD6BCA-B774-4C02-A260-4FC986A9AA94}|DSV.Task.RestApi.csproj|c:\\users\\diogo\\desktop\\dsv\\src\\dsv.task.restapi\\dsv.task.restapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{64BD6BCA-B774-4C02-A260-4FC986A9AA94}|DSV.Task.RestApi.csproj|solutionrelative:dsv.task.restapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BD6BCA-B774-4C02-A260-4FC986A9AA94}|DSV.Task.RestApi.csproj|c:\\users\\diogo\\desktop\\dsv\\src\\dsv.task.restapi\\repositories\\starshipsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BD6BCA-B774-4C02-A260-4FC986A9AA94}|DSV.Task.RestApi.csproj|solutionrelative:repositories\\starshipsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BD6BCA-B774-4C02-A260-4FC986A9AA94}|DSV.Task.RestApi.csproj|c:\\users\\diogo\\desktop\\dsv\\src\\dsv.task.restapi\\repositories\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BD6BCA-B774-4C02-A260-4FC986A9AA94}|DSV.Task.RestApi.csproj|solutionrelative:repositories\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BD6BCA-B774-4C02-A260-4FC986A9AA94}|DSV.Task.RestApi.csproj|c:\\users\\diogo\\desktop\\dsv\\src\\dsv.task.restapi\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BD6BCA-B774-4C02-A260-4FC986A9AA94}|DSV.Task.RestApi.csproj|solutionrelative:controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BD6BCA-B774-4C02-A260-4FC986A9AA94}|DSV.Task.RestApi.csproj|c:\\users\\diogo\\desktop\\dsv\\src\\dsv.task.restapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BD6BCA-B774-4C02-A260-4FC986A9AA94}|DSV.Task.RestApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "people.json",
+              "DocumentMoniker": "C:\\Users\\diogo\\Desktop\\DSV\\src\\DSV.Task.RestApi\\Data\\people.json",
+              "RelativeDocumentMoniker": "Data\\people.json",
+              "ToolTip": "C:\\Users\\diogo\\Desktop\\DSV\\src\\DSV.Task.RestApi\\Data\\people.json",
+              "RelativeToolTip": "Data\\people.json",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAACMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T11:37:01.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DSV.Task.RestApi",
+              "DocumentMoniker": "C:\\Users\\diogo\\Desktop\\DSV\\src\\DSV.Task.RestApi\\DSV.Task.RestApi.csproj",
+              "RelativeDocumentMoniker": "DSV.Task.RestApi.csproj",
+              "ToolTip": "C:\\Users\\diogo\\Desktop\\DSV\\src\\DSV.Task.RestApi\\DSV.Task.RestApi.csproj",
+              "RelativeToolTip": "DSV.Task.RestApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-08T10:42:20.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApiServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\Desktop\\DSV\\src\\DSV.Task.RestApi.Test\\ApiServiceTest.cs",
+              "RelativeDocumentMoniker": "..\\DSV.Task.RestApi.Test\\ApiServiceTest.cs",
+              "ToolTip": "C:\\Users\\diogo\\Desktop\\DSV\\src\\DSV.Task.RestApi.Test\\ApiServiceTest.cs",
+              "RelativeToolTip": "..\\DSV.Task.RestApi.Test\\ApiServiceTest.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:24:46.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\Desktop\\DSV\\src\\DSV.Task.RestApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\diogo\\Desktop\\DSV\\src\\DSV.Task.RestApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:53:24.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StarshipDtoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\Desktop\\DSV\\src\\DSV.Task.RestApi\\Domain\\Mappers\\StarshipDtoMapper.cs",
+              "RelativeDocumentMoniker": "Domain\\Mappers\\StarshipDtoMapper.cs",
+              "ToolTip": "C:\\Users\\diogo\\Desktop\\DSV\\src\\DSV.Task.RestApi\\Domain\\Mappers\\StarshipDtoMapper.cs",
+              "RelativeToolTip": "Domain\\Mappers\\StarshipDtoMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:00:27.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlanetDtoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\Desktop\\DSV\\src\\DSV.Task.RestApi\\Domain\\Mappers\\PlanetDtoMapper.cs",
+              "RelativeDocumentMoniker": "Domain\\Mappers\\PlanetDtoMapper.cs",
+              "ToolTip": "C:\\Users\\diogo\\Desktop\\DSV\\src\\DSV.Task.RestApi\\Domain\\Mappers\\PlanetDtoMapper.cs",
+              "RelativeToolTip": "Domain\\Mappers\\PlanetDtoMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:00:26.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonDtoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\Desktop\\DSV\\src\\DSV.Task.RestApi\\Domain\\Mappers\\PersonDtoMapper.cs",
+              "RelativeDocumentMoniker": "Domain\\Mappers\\PersonDtoMapper.cs",
+              "ToolTip": "C:\\Users\\diogo\\Desktop\\DSV\\src\\DSV.Task.RestApi\\Domain\\Mappers\\PersonDtoMapper.cs",
+              "RelativeToolTip": "Domain\\Mappers\\PersonDtoMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:00:26.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Starship.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\Desktop\\DSV\\src\\DSV.Task.RestApi\\Domain\\Entities\\Starship.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Starship.cs",
+              "ToolTip": "C:\\Users\\diogo\\Desktop\\DSV\\src\\DSV.Task.RestApi\\Domain\\Entities\\Starship.cs",
+              "RelativeToolTip": "Domain\\Entities\\Starship.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAywAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:00:25.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Planet.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\Desktop\\DSV\\src\\DSV.Task.RestApi\\Domain\\Entities\\Planet.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Planet.cs",
+              "ToolTip": "C:\\Users\\diogo\\Desktop\\DSV\\src\\DSV.Task.RestApi\\Domain\\Entities\\Planet.cs",
+              "RelativeToolTip": "Domain\\Entities\\Planet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:00:25.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\Desktop\\DSV\\src\\DSV.Task.RestApi\\Domain\\Entities\\Person.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Person.cs",
+              "ToolTip": "C:\\Users\\diogo\\Desktop\\DSV\\src\\DSV.Task.RestApi\\Domain\\Entities\\Person.cs",
+              "RelativeToolTip": "Domain\\Entities\\Person.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:00:24.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StarshipsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\Desktop\\DSV\\src\\DSV.Task.RestApi\\Repositories\\StarshipsRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\StarshipsRepository.cs",
+              "ToolTip": "C:\\Users\\diogo\\Desktop\\DSV\\src\\DSV.Task.RestApi\\Repositories\\StarshipsRepository.cs",
+              "RelativeToolTip": "Repositories\\StarshipsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:00:19.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlanetRepository.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\Desktop\\DSV\\src\\DSV.Task.RestApi\\Repositories\\PlanetRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PlanetRepository.cs",
+              "ToolTip": "C:\\Users\\diogo\\Desktop\\DSV\\src\\DSV.Task.RestApi\\Repositories\\PlanetRepository.cs",
+              "RelativeToolTip": "Repositories\\PlanetRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:00:19.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\Desktop\\DSV\\src\\DSV.Task.RestApi\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "Services\\ApiService.cs",
+              "ToolTip": "C:\\Users\\diogo\\Desktop\\DSV\\src\\DSV.Task.RestApi\\Services\\ApiService.cs",
+              "RelativeToolTip": "Services\\ApiService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAASwA8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:00:05.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PersonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\Desktop\\DSV\\src\\DSV.Task.RestApi\\Repositories\\PersonRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PersonRepository.cs",
+              "ToolTip": "C:\\Users\\diogo\\Desktop\\DSV\\src\\DSV.Task.RestApi\\Repositories\\PersonRepository.cs",
+              "RelativeToolTip": "Repositories\\PersonRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwBEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:59:49.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\Desktop\\DSV\\src\\DSV.Task.RestApi\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\diogo\\Desktop\\DSV\\src\\DSV.Task.RestApi\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:58:37.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StarshipDto.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\Desktop\\DSV\\src\\DSV.Task.RestApi\\Domain\\Dtos\\StarshipDto.cs",
+              "RelativeDocumentMoniker": "Domain\\Dtos\\StarshipDto.cs",
+              "ToolTip": "C:\\Users\\diogo\\Desktop\\DSV\\src\\DSV.Task.RestApi\\Domain\\Dtos\\StarshipDto.cs",
+              "RelativeToolTip": "Domain\\Dtos\\StarshipDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:58:32.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlanetDto.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\Desktop\\DSV\\src\\DSV.Task.RestApi\\Domain\\Dtos\\PlanetDto.cs",
+              "RelativeDocumentMoniker": "Domain\\Dtos\\PlanetDto.cs",
+              "ToolTip": "C:\\Users\\diogo\\Desktop\\DSV\\src\\DSV.Task.RestApi\\Domain\\Dtos\\PlanetDto.cs",
+              "RelativeToolTip": "Domain\\Dtos\\PlanetDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:58:30.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PersonDto.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\Desktop\\DSV\\src\\DSV.Task.RestApi\\Domain\\Dtos\\PersonDto.cs",
+              "RelativeDocumentMoniker": "Domain\\Dtos\\PersonDto.cs",
+              "ToolTip": "C:\\Users\\diogo\\Desktop\\DSV\\src\\DSV.Task.RestApi\\Domain\\Dtos\\PersonDto.cs",
+              "RelativeToolTip": "Domain\\Dtos\\PersonDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:58:29.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApiController.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\Desktop\\DSV\\src\\DSV.Task.RestApi\\Controllers\\ApiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApiController.cs",
+              "ToolTip": "C:\\Users\\diogo\\Desktop\\DSV\\src\\DSV.Task.RestApi\\Controllers\\ApiController.cs",
+              "RelativeToolTip": "Controllers\\ApiController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAHsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:57:22.635Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

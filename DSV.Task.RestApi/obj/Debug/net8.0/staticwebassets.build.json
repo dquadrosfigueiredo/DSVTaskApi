@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0d75gq/a58vmeIFZhi5dMIl3kt+WRmqyLOtLRWIwUxo=",
+  "Source": "DSV.Task.RestApi",
+  "BasePath": "_content/DSV.Task.RestApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
